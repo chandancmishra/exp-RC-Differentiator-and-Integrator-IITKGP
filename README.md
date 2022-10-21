@@ -4,28 +4,43 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Mechanical Engineering 
+<b>Discipline | <b> Electronic Engineering 
 :--|:--|
-<b> Lab | <b> **Mechanisms and Robotics Lab**
-<b> Experiment|     <b> **Movemaster and Experiment 1**
+<b> Lab | <b> **Digital Electronic Circuits**
+<b> Experiment|     <b> **Analysis of Functions of BCD-TO-7-segment Decoder / Driver and Operation of 7-segment LED Display 1**
 
 
 ### About the Experiment 
 
 <!--Fill a brief description of this experiment here-->
 
-<b>Name of Developer | <b> **Prof. C S Kumar**
+<b>Name of Developer | <b> **Prof. Gautam Saha**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
-<b> Email id|     <b>  **kumar@mech.iitkgp.ac.in**
-<b> Department |  **Department of Mechanical Engineering**
-<b>Webpage| <b> [http://facweb.iitkgp.ernet.in/~cskumar/](http://facweb.iitkgp.ernet.in/~cskumar/)
+<b> Email id|     <b>  **gsaha @ ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> [Web:http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bTmUW]
+
+<b>Name of Developer | <b> **Prof. Indrajit Chakrabarti**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **indrajit@ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
+<b>Webpage| <b> [Web:http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=bVmbU]
+
+<b>Name of Developer | <b> **Prof. Achintya Halder**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **achintya@ece.iitkgp.ac.in **
+<b> Department |  **Electronics & Electrical Communication Engineering**
 
 
 ### Contributors List
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
-1 | **Ujjal Dey** | Developer | Junior Research Fellow | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Pabitra Kumar Jana** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
-2 | **Aditya Kameswara Rao Nandula** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
+1 | **Ramesh Ghosh** |Integration Engineer | senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+2 | **Sukriti Dhang** | Developer Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+3 | **Prakriti Dhang** |Developer Engineer  | Project Staff Technical | Department of Mechanical Engineering | IIT Kharagpur | 
+4 | **Chandan Mishra** |Integration Engineer | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+
